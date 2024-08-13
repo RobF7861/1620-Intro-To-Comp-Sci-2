@@ -4,7 +4,6 @@ import csv
 
 
 #TODO: Create a .csv file for accounts
-#Look over teacher project video for better instruction
 #TODO: Implement an account number input unique to all accounts
 #TODO: Remove 'Set Balance' feature
 #TODO: Make sure account balances keep last activity (ex.: Withdrawing 10 from Tom's 30 persists even after app is closed)
